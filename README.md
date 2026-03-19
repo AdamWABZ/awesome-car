@@ -9,7 +9,15 @@ A curated list of awesome resources about [your topic].
 - [Contributing](#contributing)
 
 ## Tools
-> Coming soon
+Screwdriver 
+Pliers 
+Torque Wrench 
+Hex Key Set
+Brake Bleeder Kit
+Car Battery Charger
+Impact Wrench
+Multimeter
+Tire Inflator
 
 ## Tutorials
 > Coming soon
